@@ -1,0 +1,46 @@
+[
+    {
+        "CategoryID":100,
+        "CategoryName":"Laptop",
+        "ItemID":"HPDX312",
+        "ItemName":"HP",
+        "ItemImage":"",
+        "MRP":60000,
+        "RetailPrice":58599,
+        "Currency":"INR",
+        "Rating":4.0
+    },
+    {
+        "CategoryID":101,
+        "CategoryName":"Drone",
+        "ItemID":"DRAQ420",
+        "ItemName":"Aquet Drone D420",
+        "ItemImage":"",
+        "MRP":20000,
+        "RetailPrice":58599,
+        "Currency":"INR",
+        "Rating":4.0
+    },
+    {
+        "CategoryID":102,
+        "CategoryName":"Games",
+        "ItemID":"GSX22",
+        "ItemName":"Game Station X 22",
+        "ItemImage":"",
+        "MRP":50000,
+        "RetailPrice":49599,
+        "Currency":"INR",
+        "Rating":4.5
+    },  
+    {
+        "CategoryID":103,
+        "CategoryName":"Accessories",
+        "ItemID":"DRAQ420",
+        "ItemName":"Aquet Drone D420",
+        "ItemImage":"",
+        "MRP":20000,
+        "RetailPrice":58599,
+        "Currency":"INR",
+        "Rating":4.0
+    }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "CategoryID": 1,
+    "Categoryname": "Tablet Phones"
+  },
+  {
+    "CategoryID": 2,
+    "Categoryname": "Smart Watch"
+  },
+  {
+    "CategoryID": 3,
+    "Categoryname": "Desktops"
+  },
+  {
+    "CategoryID": 4,
+    "Categoryname": "Earphones"
+  },
+  {
+    "CategoryID": 5,
+    "Categoryname": "Monitors"
+  }
+]
