@@ -1,46 +1,123 @@
 [
     {
-        "CategoryID":100,
-        "CategoryName":"Laptop",
-        "ItemID":"HPDX312",
-        "ItemName":"HP",
-        "ItemImage":"",
-        "MRP":60000,
-        "RetailPrice":58599,
-        "Currency":"INR",
-        "Rating":4.0
+        "CategoryID":1,
+        "CategoryName":"Tablet Phones",
+        "items": [
+          {
+            "ItemId": 1,
+            "ItemName": "Galaxy Tab S7+",
+            "ItemImage": "",
+            "MRP": 71999,
+            "Retail": 71999,
+            "Currency": "Rs.",
+            "Rating": 3.5
+          },
+          {
+            "ItemId": 2,
+            "ItemName": "Galaxy Tab A7(LTE)",
+            "ItemImage": "",
+            "MRP": 21999,
+            "Retail": 21999,
+            "Currency": "Rs.",
+            "Rating": 4.0
+          }
+        ]
     },
     {
-        "CategoryID":101,
-        "CategoryName":"Drone",
-        "ItemID":"DRAQ420",
-        "ItemName":"Aquet Drone D420",
-        "ItemImage":"",
-        "MRP":20000,
-        "RetailPrice":58599,
-        "Currency":"INR",
-        "Rating":4.0
+      "CategoryID": 2,
+      "CategoryName": "Smart Watch",
+      "items": [
+          {
+            "ItemId": 1,
+            "ItemName": "Galaxy Fit2",
+            "ItemImage": "",
+            "MRP": 3999,
+            "Retail": 3999,
+            "Currency": "Rs.",
+            "Rating": 4.1
+          },
+          {
+            "ItemId": 2,
+            "ItemName": "Galaxy Watch Active2 4G(Aluminium)",
+            "ItemImage": "",
+            "MRP": 28490,
+            "Retail": 28490,
+            "Currency": "Rs.",
+            "Rating": 4.3
+          }
+      ]
     },
     {
-        "CategoryID":102,
-        "CategoryName":"Games",
-        "ItemID":"GSX22",
-        "ItemName":"Game Station X 22",
-        "ItemImage":"",
-        "MRP":50000,
-        "RetailPrice":49599,
-        "Currency":"INR",
-        "Rating":4.5
-    },  
+      "CategoryID": 3,
+      "CategoryName": "Desktops",
+      "items": [
+        {
+          "ItemId": 1,
+          "ItemName": "HP Slim Desktop - S01-pF0130in",
+          "ItemImage": "",
+          "MRP": 39990,
+          "Retail": 39990,
+          "Currency": "Rs.",
+          "Rating": 4.1
+        },
+        {
+          "ItemId": 2,
+          "ItemName": "HP Slim Desktop - S01-pF0306il",
+          "ItemImage": "",
+          "MRP": 41999,
+          "Retail": 41999,
+          "Currency": "Rs.",
+          "Rating": 4.5
+        }
+      ]
+    },
     {
-        "CategoryID":103,
-        "CategoryName":"Accessories",
-        "ItemID":"DRAQ420",
-        "ItemName":"Aquet Drone D420",
-        "ItemImage":"",
-        "MRP":20000,
-        "RetailPrice":58599,
-        "Currency":"INR",
-        "Rating":4.0
+      "CategoryID": 4,
+      "CategoryName": "Earphones",
+      "items": [
+        {
+          "ItemId": 1,
+          "ItemName": "BOAT - BassHeads 225",
+          "ItemImage": "",
+          "MRP": 499,
+          "Retail": 499,
+          "Currency": "Rs.",
+          "Rating": 5
+        },
+        {
+          "ItemId": 2,
+          "ItemName": "BOAT - BassHeads 100",
+          "ItemImage": "",
+          "MRP": 399,
+          "Retail": 399,
+          "Currency": "Rs.",
+          "Rating": 4.5
+        }
+      ]
+    },
+    {
+      "CategoryID": 5,
+      "CategoryName": "Monitors",
+      "items": [
+        {
+          "ItemId": 1,
+          "ItemName": "Curved Gaming Monitor with WQHD Resolution",
+          "ItemImage": "",
+          "MRP": 23000,
+          "Retail": 23000,
+          "Currency": "Rs.",
+          "Rating": 4.1
+        },
+        {
+          "ItemId": 2,
+          "ItemName": "UHD 4K QLED Monitor",
+          "ItemImage": "",
+          "MRP": 49999,
+          "Retail": 49999,
+          "Currency": "Rs.",
+          "Rating": 5
+        }
+      ]
     }
+    
 ]
