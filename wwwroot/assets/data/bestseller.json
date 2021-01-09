@@ -1,1 +1,20 @@
-
+[
+  {
+    "CategoryID":3,
+    "CategoryName":"Laptop",
+    "Items":[
+      {
+        "ItemId":1,
+        "ItemName":"Zeon Zen 4 Pro",
+        "ItemImage":"",
+        "MRP":295,
+        "RetailPrice":295,
+        "Currency":"$",
+        "Rating":3.5
+      }
+    ]
+    
+  },
+  
+  
+]
