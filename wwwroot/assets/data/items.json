@@ -1,7 +1,7 @@
 [
     {
         "CategoryID":1,
-        "CategoryName":"Tablet Phones",
+        "CategoryName":"Mobile",
         "items": [
           {
             "ItemId": 1,
@@ -23,100 +23,76 @@
           }
         ]
     },
-    {
-      "CategoryID": 2,
-      "CategoryName": "Smart Watch",
-      "items": [
-          {
-            "ItemId": 1,
-            "ItemName": "Galaxy Fit2",
-            "ItemImage": "",
-            "MRP": 3999,
-            "Retail": 3999,
-            "Currency": "Rs.",
-            "Rating": 4.1
-          },
-          {
-            "ItemId": 2,
-            "ItemName": "Galaxy Watch Active2 4G(Aluminium)",
-            "ItemImage": "",
-            "MRP": 28490,
-            "Retail": 28490,
-            "Currency": "Rs.",
-            "Rating": 4.3
-          }
-      ]
-    },
-    {
-      "CategoryID": 3,
-      "CategoryName": "Desktops",
-      "items": [
-        {
-          "ItemId": 1,
-          "ItemName": "HP Slim Desktop - S01-pF0130in",
-          "ItemImage": "",
-          "MRP": 39990,
-          "Retail": 39990,
-          "Currency": "Rs.",
-          "Rating": 4.1
-        },
-        {
-          "ItemId": 2,
-          "ItemName": "HP Slim Desktop - S01-pF0306il",
-          "ItemImage": "",
-          "MRP": 41999,
-          "Retail": 41999,
-          "Currency": "Rs.",
-          "Rating": 4.5
-        }
-      ]
-    },
-    {
-      "CategoryID": 4,
-      "CategoryName": "Earphones",
-      "items": [
-        {
-          "ItemId": 1,
-          "ItemName": "BOAT - BassHeads 225",
-          "ItemImage": "",
-          "MRP": 499,
-          "Retail": 499,
-          "Currency": "Rs.",
-          "Rating": 5
-        },
-        {
-          "ItemId": 2,
-          "ItemName": "BOAT - BassHeads 100",
-          "ItemImage": "",
-          "MRP": 399,
-          "Retail": 399,
-          "Currency": "Rs.",
-          "Rating": 4.5
-        }
-      ]
-    },
-    {
-      "CategoryID": 5,
-      "CategoryName": "Monitors",
-      "items": [
-        {
-          "ItemId": 1,
-          "ItemName": "Curved Gaming Monitor with WQHD Resolution",
-          "ItemImage": "",
-          "MRP": 23000,
-          "Retail": 23000,
-          "Currency": "Rs.",
-          "Rating": 4.1
-        },
-        {
-          "ItemId": 2,
-          "ItemName": "UHD 4K QLED Monitor",
-          "ItemImage": "",
-          "MRP": 49999,
-          "Retail": 49999,
-          "Currency": "Rs.",
-          "Rating": 5
-        }
-      ]
-    } 
+  {
+    "CategoryID": 2,
+    "CategoryName": "Computer",
+    "items": [
+      {
+        "ItemId": 1,
+        "ItemName": "Galaxy Fit2",
+        "ItemImage": "",
+        "MRP": 3999,
+        "Retail": 3999,
+        "Currency": "Rs.",
+        "Rating": 4.1
+      },
+      {
+        "ItemId": 2,
+        "ItemName": "Galaxy Watch Active2 4G(Aluminium)",
+        "ItemImage": "",
+        "MRP": 28490,
+        "Retail": 28490,
+        "Currency": "Rs.",
+        "Rating": 4.3
+      }
+    ]
+  },
+  {
+    "CategoryID": 3,
+    "CategoryName": "Laptop",
+    "items": [
+      {
+        "ItemId": 1,
+        "ItemName": "HP Slim Desktop - S01-pF0130in",
+        "ItemImage": "",
+        "MRP": 39990,
+        "Retail": 39990,
+        "Currency": "Rs.",
+        "Rating": 4.1
+      },
+      {
+        "ItemId": 2,
+        "ItemName": "HP Slim Desktop - S01-pF0306il",
+        "ItemImage": "",
+        "MRP": 41999,
+        "Retail": 41999,
+        "Currency": "Rs.",
+        "Rating": 4.5
+      }
+    ]
+  },
+  {
+    "CategoryID": 4,
+    "CategoryName": "Camera",
+    "items": [
+      {
+        "ItemId": 1,
+        "ItemName": "BOAT - BassHeads 225",
+        "ItemImage": "",
+        "MRP": 499,
+        "Retail": 499,
+        "Currency": "Rs.",
+        "Rating": 5
+      },
+      {
+        "ItemId": 2,
+        "ItemName": "BOAT - BassHeads 100",
+        "ItemImage": "",
+        "MRP": 399,
+        "Retail": 399,
+        "Currency": "Rs.",
+        "Rating": 4.5
+      }
+    ]
+  } 
 ]
