@@ -1,22 +1,18 @@
 [
   {
     "CategoryID": 1,
-    "Categoryname": "Tablet Phones"
+    "Categoryname": "Mobile"
   },
   {
     "CategoryID": 2,
-    "Categoryname": "Smart Watch"
+    "Categoryname": "Computer"
   },
   {
     "CategoryID": 3,
-    "Categoryname": "Desktops"
+    "Categoryname": "Laptop"
   },
   {
     "CategoryID": 4,
-    "Categoryname": "Earphones"
+    "Categoryname": "Camera"
   },
-  {
-    "CategoryID": 5,
-    "Categoryname": "Monitors"
-  }
 ]

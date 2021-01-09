@@ -1,8 +1,8 @@
 [
     {
         "CategoryID":1,
-        "CategoryName":"Tablet Phones",
-        "Items": [
+        "CategoryName":"Mobile",
+        "items": [
           {
             "ItemId": 1,
             "ItemName": "Galaxy Tab S7+",
@@ -26,7 +26,7 @@
     {
       "CategoryID": 2,
       "CategoryName": "Smart Watch",
-      "Items": [
+      "items": [
           {
             "ItemId": 1,
             "ItemName": "Galaxy Fit2",
@@ -50,7 +50,7 @@
     {
       "CategoryID": 3,
       "CategoryName": "Desktops",
-      "Items": [
+      "items": [
         {
           "ItemId": 1,
           "ItemName": "HP Slim Desktop - S01-pF0130in",
@@ -74,7 +74,7 @@
     {
       "CategoryID": 4,
       "CategoryName": "Earphones",
-      "Items": [
+      "items": [
         {
           "ItemId": 1,
           "ItemName": "BOAT - BassHeads 225",
@@ -98,7 +98,7 @@
     {
       "CategoryID": 5,
       "CategoryName": "Monitors",
-      "Items": [
+      "items": [
         {
           "ItemId": 1,
           "ItemName": "Curved Gaming Monitor with WQHD Resolution",
