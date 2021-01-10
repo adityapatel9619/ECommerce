@@ -14,5 +14,21 @@
   {
     "CategoryID": 4,
     "Categoryname": "Camera"
+  },
+  {
+    "CategoryID": 5,
+    "Categoryname": "Watch"
+  },
+  {
+    "CategoryID": 6,
+    "Categoryname": "Headphones"
+  },
+  {
+    "CategoryID": 7,
+    "Categoryname": "Printer"
+  },
+  {
+    "CategoryID": 8,
+    "Categoryname": "Audio"
   }
 ]
