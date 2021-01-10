@@ -1,31 +1,31 @@
 [
   {
-    "CategoryID": 4,
+    "CategoryID":4,
     "CategoryName": "Camera",
     "Items": [
       {
-        "ItemId": 1,
+        "ItemId":1,
         "ItemName": "Mony Handcam Z 105",
         "ItemImage": "assets/images/product/product-5.png",
-        "MRP": 110,
+        "MRP":110,
         "Currency": "$",
-        "Rating": 4.5
+        "Rating":4.5
       },
       {
-        "ItemId": 2,
+        "ItemId":2,
         "ItemName": "Axor Digital Camera",
         "ItemImage": "assets/images/product/product-6.png",
-        "MRP": 199,
+        "MRP":199,
         "Currency": "$",
-        "Rating": 5.0
+        "Rating":5.0
       },
       {
-        "ItemId": 3,
+        "ItemId":3,
         "ItemName": "Silvex DSLR Camera T 32",
         "ItemImage": "assets/images/product/product-7.png",
-        "MRP": 580,
+        "MRP":580,
         "Currency": "$",
-        "Rating": 3.5
+        "Rating":3.5
       },
       {
         "ItemId": 4,
@@ -33,63 +33,63 @@
         "ItemImage": "assets/images/product/product-8.png",
         "MRP": 320,
         "Currency": "$",
-        "Rating": 3.5
+        "Rating":3.5
       }
     ]
   },
   {
-    "CategoryID": 5,
+    "CategoryID":5,
     "CategoryName": "Watch",
     "Items": [
       {
-        "ItemId": 1,
+        "ItemId":1,
         "ItemName": "Mascut Smart Watch",
         "ItemImage": "assets/images/product/product-9.png",
         "MRP": 295,
         "Currency": "$",
-        "Rating": 5.0
+        "Rating":5.0
       }
     ]
   },
   {
-    "CategoryID": 6,
+    "CategoryID":6,
     "CategoryName": "Headphones",
     "Items": [
       {
-        "ItemId": 1,
+        "ItemId":1,
         "ItemName": "Z Bluetooth Headphone",
         "ItemImage": "assets/images/product/product-10.png",
-        "MRP": 189,
+        "MRP":189,
         "Currency": "$",
-        "Rating": 4.5
+        "Rating":4.5
       }
     ]
   },
   {
-    "CategoryID": 7,
+    "CategoryID":7,
     "CategoryName": "Printer",
     "Items": [
       {
-        "ItemId": 1,
+        "ItemId":1,
         "ItemName": "Pranon Photo Printer Y 25",
         "ItemImage": "assets/images/product/product-11.png",
-        "MRP": 210,
+        "MRP":210,
         "Currency": "$",
-        "Rating": 4.0
+        "Rating":4.0
       }
     ]
   },
   {
-    "CategoryID": 8,
+    "CategoryID":8,
     "CategoryName": "Audio",
     "Items": [
       {
-        "ItemId": 1,
+        "ItemId":1,
         "ItemName": "Roses Speaker Box",
         "ItemImage": "assets/images/product/product-12.png",
-        "MRP": 210,
+        "MRP":210,
         "Currency": "$",
-        "Rating": 4.0
+        "Rating":4.0
       }
     ]
   }

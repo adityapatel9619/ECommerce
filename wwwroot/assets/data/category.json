@@ -1,34 +1,46 @@
 [
   {
-    "CategoryID": 1,
+    "CategoryID":1,
     "Categoryname": "Mobile"
   },
   {
-    "CategoryID": 2,
+    "CategoryID":2,
     "Categoryname": "Computer"
   },
   {
-    "CategoryID": 3,
+    "CategoryID":3,
     "Categoryname": "Laptop"
   },
   {
-    "CategoryID": 4,
+    "CategoryID":4,
     "Categoryname": "Camera"
   },
   {
-    "CategoryID": 5,
+    "CategoryID":5,
     "Categoryname": "Watch"
   },
   {
-    "CategoryID": 6,
+    "CategoryID":6,
     "Categoryname": "Headphones"
   },
   {
-    "CategoryID": 7,
+    "CategoryID":7,
     "Categoryname": "Printer"
   },
   {
-    "CategoryID": 8,
+    "CategoryID":8,
     "Categoryname": "Audio"
+  },
+  {
+    "CategoryID":9,
+    "Categoryname": "Drone"
+  },
+  {
+    "CategoryID":10,
+    "Categoryname": "Games"
+  },
+  {
+    "CategoryID":11,
+    "Categoryname": "Accessories"
   }
 ]

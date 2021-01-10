@@ -1,0 +1,72 @@
+[
+  {
+    "CategoryID":3,
+    "CategoryName": "Laptop",
+    "Items": [
+      {
+        "ItemId": 1,
+        "ItemName": "Zeon Zen 4 Pro",
+        "ItemImage": "assets/images/product/product-1.png",
+        "MRP": 295,
+        "Currency": "$",
+        "Rating": 3.5
+      }
+    ]
+  },
+  {
+    "CategoryID":9,
+    "CategoryName": "Drone",
+    "Items": [
+      {
+        "ItemId": 1,
+        "ItemName": "Aquet Drone D 420",
+        "ItemImage": "assets/images/product/product-2.png",
+        "MRP": 275,
+        "Currency": "$",
+        "Rating": 3.5
+      }
+    ]
+  },
+  {
+    "CategoryID":10,
+    "CategoryName": "Games",
+    "Items": [
+      {
+        "ItemId": 1,
+        "ItemName": "Game Station X 22",
+        "ItemImage": "assets/images/product/product-3.png",
+        "MRP": 295,
+        "Currency": "$",
+        "Rating": 4.5
+      }
+    ]
+  },
+  {
+    "CategoryID":11,
+    "CategoryName": "Accessories",
+    "Items": [
+      {
+        "ItemId": 1,
+        "ItemName": "Roxxe Headphone Z 75",
+        "ItemImage": "assets/images/product/product-4.png",
+        "MRP": 110,
+        "Currency": "$",
+        "Rating": 5
+      }
+    ]
+  },
+  {
+    "CategoryID":4,
+    "CategoryName": "Camera",
+    "Items": [
+      {
+        "ItemId": 1,
+        "ItemName": "Mony HandyCam Z 105",
+        "ItemImage": "assets/images/product/product-5.png",
+        "MRP": 110,
+        "Currency": "$",
+        "Rating": 3.5
+      }
+    ]
+  }
+]
