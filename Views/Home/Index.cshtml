@@ -418,14 +418,14 @@
                             <!-- Product Slider Wrap Start -->
                             <div class="product-slider-wrap product-slider-arrow-one">
                                 <!-- Product Slider Start -->
-                                <div class="product-slider product-slider-4" id="divFeaturedItems">
+                                <div class="product-slider product-slider-4">
 
-                                    <div class="col pb-20 pt-10">
+                                    <div class="col pb-20 pt-10" id="divFeaturedItems">
                                         <!-- Product Start -->
-                                        <div class="ee-product">
+                                        <!--<div class="ee-product">-->
 
                                             <!-- Image -->
-                                            <div class="image">
+                                            <!--<div class="image">
 
                                                 <a href="single-product.html" class="img"><img src="assets/images/product/product-1.png" alt="Product Image"></a>
 
@@ -436,21 +436,21 @@
 
                                                 <a href="#" class="add-to-cart"><i class="ti-shopping-cart"></i><span>ADD TO CART</span></a>
 
-                                            </div>
+                                            </div>-->
 
                                             <!-- Content -->
-                                            <div class="content">
+                                            <!--<div class="content">-->
 
                                                 <!-- Category & Title -->
-                                                <div class="category-title">
+                                                <!--<div class="category-title">
 
                                                     <a href="#" class="cat">Laptop</a>
                                                     <h5 class="title"><a href="single-product.html">Zeon Zen 4 Pro</a></h5>
 
-                                                </div>
+                                                </div>-->
 
                                                 <!-- Price & Ratting -->
-                                                <div class="price-ratting">
+                                                <!--<div class="price-ratting">
 
                                                     <h5 class="price">$295.00</h5>
                                                     <div class="ratting">
@@ -465,8 +465,8 @@
 
                                             </div>
 
-                                        </div><!-- Product End -->
-                                    </div>
+                                        </div>--><!-- Product End -->
+                                    <!--</div>-->
 
                                     <!--<div class="col pb-20 pt-10">-->
                                         <!-- Product Start -->
@@ -516,9 +516,9 @@
                                             </div>
 
                                         </div>--><!-- Product End -->
-                                    <!--</div>
+                                    </div>
 
-                                    <div class="col pb-20 pt-10">-->
+                                    <!--<div class="col pb-20 pt-10">-->
                                         <!-- Product Start -->
                                         <!--<div class="ee-product">-->
 
@@ -662,7 +662,7 @@
                                         </div>--><!-- Product End -->
                                     <!--</div>-->
 
-                                </div><!-- Product Slider End -->
+                                <!--</div>--><!-- Product Slider End -->
                             </div><!-- Product Slider Wrap End -->
 
                         </div><!-- Tab Pane End -->
@@ -934,8 +934,8 @@
 
             </div>
         </div>
-    </div><!-- Feature Product Section End -->
-
+        </div><!-- Feature Product Section End -->
+    </div>
     <!-- Best Seller Part-->
 
     <!-- Best Sell Product Section Start -->
@@ -2652,6 +2652,7 @@
 
             bindData();
             bindBestSeller();
+            bindFeaturedItems();
         });
 
             function bindData() {
@@ -2726,6 +2727,54 @@
                     }
                 })
             }
+
+        function bindFeaturedItems() {
+
+
+            $.ajax({
+                url: 'assets/data/featureditems.json',
+                type: 'GET',
+                contentType: 'application/json',
+                success: function (data) {
+                    let strData = "";
+
+                    $.each(data, function (i, item) {
+                        $.each(item.Items, function (j, d) {
+                            strData +='<div class="ee-product">  ' +
+                                '<div class="image">  ' +
+                                '<a href="single-product.html" class="img"><img src="' + d.ItemImage + '" alt="Product Image"></a>  ' +
+                                '<div class="wishlist-compare">  ' +
+                                '<a href="#" data-tooltip="Compare"><i class="ti-control-shuffle"></i></a>  ' +
+                                '<a href="#" data-tooltip="Wishlist"><i class="ti-heart"></i></a>  ' +
+                                '</div>  ' +
+                                '<a href="#" class="add-to-cart"><i class="ti-shopping-cart"></i><span>ADD TO CART</span></a>  ' +
+                                '</div>  ' +
+                                '<div class="content">  ' +
+                                '<div class="category-title">  ' +
+                                '<a href="#" class="cat">' + item.CategoryName + '</a>  ' +
+                                '<h5 class="title"><a href="single-product.html">' + d.ItemName + '</a></h5>  ' +
+                                '</div>  ' +
+                                '<div class="price-ratting">  ' +
+                                '<h5 class="price">' + d.Currency + '' + d.MRP+'</h5>  ' +
+                                '<div class="ratting">  ' +
+                                '<i class="fa fa-star"></i>  ' +
+                                '<i class="fa fa-star"></i>  ' +
+                                '<i class="fa fa-star"></i>  ' +
+                                '<i class="fa fa-star-half-o"></i>  ' +
+                                '<i class="fa fa-star-o"></i>  ' +
+                                '</div>  ' +
+                                '</div>  ' +
+                                '</div>  ' +
+                                '</div>'; 
+                        });
+                    });
+                    $('#divFeaturedItems').append(strData);
+                },
+                error: function (jqXHR, textStatus, err) {
+                        alert(err);
+                    }
+            })
+        }
         
     </script>
 

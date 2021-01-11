@@ -60,12 +60,12 @@
     "CategoryName": "Camera",
     "Items": [
       {
-        "ItemId": 1,
+        "ItemId":1,
         "ItemName": "Mony HandyCam Z 105",
         "ItemImage": "assets/images/product/product-5.png",
-        "MRP": 110,
+        "MRP":110,
         "Currency": "$",
-        "Rating": 3.5
+        "Rating":3.5
       }
     ]
   }
