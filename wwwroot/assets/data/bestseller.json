@@ -28,10 +28,10 @@
         "Rating":3.5
       },
       {
-        "ItemId": 4,
+        "ItemId":4,
         "ItemName": "Necta Instant Camera",
         "ItemImage": "assets/images/product/product-8.png",
-        "MRP": 320,
+        "MRP":320,
         "Currency": "$",
         "Rating":3.5
       }
@@ -45,7 +45,7 @@
         "ItemId":1,
         "ItemName": "Mascut Smart Watch",
         "ItemImage": "assets/images/product/product-9.png",
-        "MRP": 295,
+        "MRP":295,
         "Currency": "$",
         "Rating":5.0
       }
