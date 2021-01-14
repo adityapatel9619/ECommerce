@@ -2445,7 +2445,7 @@
                             strData = ' <div class="col pb-20 pt-10">  ' +
                                 '<div class="ee-product">  ' +
                                 '    <div class="image">  ' +
-                                '        <span class="' + x.label + '">' + x.ItemSellingType+'</span>  ' +
+                                '        <span class="' + x.Label + '">' + x.ItemSellingType+'</span>  ' +
                                 '        <a href="single-product.html" class="img"><img src="' + x.ItemImage+'" alt="Product Image"></a>  ' +
                                 '        <div class="wishlist-compare">  ' +
                                 '            <a href="#" data-tooltip="Compare"><i class="ti-control-shuffle"></i></a>  ' +
@@ -2459,7 +2459,7 @@
                                 '            <h5 class="title"><a href="single-product.html">' + x.ItemName+'</a></h5>  ' +
                                 '        </div>  ' +
                                 '        <div class="price-ratting">  ' +
-                                '            <h5 class="price">' + x.Currency + '' + x.MRP+'</h5>  ' +
+                                '            <h5 class="price"><span class="old">' + x.Currency + '' + x.OldPrice+'</span>' + x.Currency + '' + x.MRP + '</h5>  ' +
                                 '            <div class="ratting">  ' +
                                 '                <i class="fa fa-star"></i>  ' +
                                 '                <i class="fa fa-star"></i>  ' +
@@ -2479,6 +2479,9 @@
                 },
                 error: function (jqXHR, textStatus, err) {
                     alert(err);
+                },
+                complete: function () {
+                    $('.slick-slider').slick('refresh');
                 }
             })
         }

@@ -11,7 +11,8 @@
         "Currency": "$",
         "Rating":5.0,
         "ItemSellingType": "Sale",
-        "label": "label sale"
+        "Label": "label sale",
+        "OldPrice":285
       }
     ]
   },
@@ -27,7 +28,8 @@
         "Currency": "$",
         "Rating":5.0,
         "ItemSellingType": "",
-        "label": ""
+        "Label": "",
+        "OldPrice":200
       }
     ]
   },
@@ -43,13 +45,14 @@
         "Currency": "$",
         "Rating":5.0,
         "ItemSellingType": "Sale",
-        "label": "label sale"
+        "Label": "label sale",
+        "OldPrice":365
       }
     ]
   },
   {
     "CategoryID":14,
-    "CategoryName":"Tv & Audio",
+    "CategoryName":"TV & Audio",
     "Items":[
       {
         "ItemId":1,
@@ -59,7 +62,8 @@
         "Currency": "$",
         "Rating":4.5,
         "ItemSellingType": "Sale",
-        "label": "label sale"
+        "Label": "label sale",
+        "OldPrice":360
       }
     ]
   },
@@ -75,7 +79,8 @@
         "Currency": "$",
         "Rating":5.0,
         "ItemSellingType": "New",
-        "label": "label new"
+        "Label": "label new",
+        "OldPrice":285
       }
     ]
   }
