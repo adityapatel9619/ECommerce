@@ -42,5 +42,23 @@
   {
     "CategoryID":11,
     "Categoryname": "Accessories"
+  },
+  {
+    "CategoryID":12,
+    "Categoryname":"Kitchen Appliances"
+  },
+  
+  {
+    "CategoryID":13,
+    "Categoryname":"Home Appliances"
+  },
+  
+  {
+    "CategoryID":14,
+    "Categoryname":"Tv & Audio"
+  },
+  {
+    "CategoryID":15,
+    "Categoryname":"Smartphone"
   }
 ]
