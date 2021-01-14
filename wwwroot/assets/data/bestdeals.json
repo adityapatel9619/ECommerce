@@ -1,1 +1,82 @@
-
+[
+  {
+    "CategoryID":10,
+    "CategoryName":"Games",
+    "Items":[
+      {
+        "ItemId":1,
+        "ItemName": "Game Stations PW 25",
+        "ItemImage": "",
+        "MRP":135.35,
+        "Currency": "$",
+        "Rating":5.0,
+        "ItemSellingType": "Sale",
+        "label": "label sale"
+      }
+    ]
+  },
+  {
+    "CategoryID":12,
+    "CategoryName":"Kitchen Appliances",
+    "Items":[
+      {
+        "ItemId":1,
+        "ItemName": "Zorex Coffe Maker",
+        "ItemImage": "",
+        "MRP":125.00,
+        "Currency": "$",
+        "Rating":5.0,
+        "ItemSellingType": "",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "CategoryID":13,
+    "CategoryName":"Home Appliances",
+    "Items":[
+      {
+        "ItemId":1,
+        "ItemName": "Jeilips Steam Iron K 2",
+        "ItemImage": "",
+        "MRP":295.00,
+        "Currency": "$",
+        "Rating":5.0,
+        "ItemSellingType": "Sale",
+        "label": "label sale"
+      }
+    ]
+  },
+  {
+    "CategoryID":14,
+    "CategoryName":"Tv & Audio",
+    "Items":[
+      {
+        "ItemId":1,
+        "ItemName": "Nexo Android TV Box",
+        "ItemImage": "",
+        "MRP":250.00,
+        "Currency": "$",
+        "Rating":4.5,
+        "ItemSellingType": "Sale",
+        "label": "label sale"
+      }
+    ]
+  },
+  {
+    "CategoryID":15,
+    "CategoryName":"Smartphone",
+    "Items":[
+      {
+        "ItemId":1,
+        "ItemName": "Ornet Note 9",
+        "ItemImage": "",
+        "MRP":230.00,
+        "Currency": "$",
+        "Rating":5.0,
+        "ItemSellingType": "New",
+        "label": "label new"
+      }
+    ]
+  }
+]
