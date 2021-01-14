@@ -6,7 +6,7 @@
       {
         "ItemId":1,
         "ItemName": "Game Stations PW 25",
-        "ItemImage": "",
+        "ItemImage": "assets/images/product/product-13.png",
         "MRP":135.35,
         "Currency": "$",
         "Rating":5.0,
@@ -22,7 +22,7 @@
       {
         "ItemId":1,
         "ItemName": "Zorex Coffe Maker",
-        "ItemImage": "",
+        "ItemImage": "assets/images/product/product-14.png",
         "MRP":125.00,
         "Currency": "$",
         "Rating":5.0,
@@ -38,7 +38,7 @@
       {
         "ItemId":1,
         "ItemName": "Jeilips Steam Iron K 2",
-        "ItemImage": "",
+        "ItemImage": "assets/images/product/product-15.png",
         "MRP":295.00,
         "Currency": "$",
         "Rating":5.0,
@@ -54,7 +54,7 @@
       {
         "ItemId":1,
         "ItemName": "Nexo Android TV Box",
-        "ItemImage": "",
+        "ItemImage": "assets/images/product/product-16.png",
         "MRP":250.00,
         "Currency": "$",
         "Rating":4.5,
@@ -70,7 +70,7 @@
       {
         "ItemId":1,
         "ItemName": "Ornet Note 9",
-        "ItemImage": "",
+        "ItemImage": "assets/images/product/product-17.png",
         "MRP":230.00,
         "Currency": "$",
         "Rating":5.0,
