@@ -1,5 +1,36 @@
 [
   {
-
+    "CategoryID":14,
+    "CategoryName":"TV & Audio",
+    "Items":[
+      {
+        "ItemId":1,
+        "ItemName": "Nexo Android TV Box",
+        "ItemImage": "assets/images/product/product-16.png",
+        "MRP":250.00,
+        "Currency": "$",
+        "Rating":4.5,
+        "ItemSellingType": "Sale",
+        "Label": "label sale",
+        "OldPrice":360
+      }
+    ]
+  },
+  {
+    "CategoryID":15,
+    "CategoryName":"Smartphone",
+    "Items":[
+      {
+        "ItemId":1,
+        "ItemName": "Ornet Note 9",
+        "ItemImage": "assets/images/product/product-17.png",
+        "MRP":230.00,
+        "Currency": "$",
+        "Rating":5.0,
+        "ItemSellingType": "New",
+        "Label": "label new",
+        "OldPrice":285
+      }
+    ]
   }
 ]
