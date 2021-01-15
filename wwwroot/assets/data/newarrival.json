@@ -6,10 +6,10 @@
       {
         "ItemId":1,
         "ItemName": "Nexo Android TV Box",
-        "ItemImage": "",
+        "ItemImage": "assets/images/product/product-16.png",
         "MRP":250.00,
         "Currency": "$",
-        "Rating":4.5,
+        "Rating": 4.5,
         "ItemSellingType": "Sale",
         "Label": "label sale",
         "OldPrice":360
@@ -23,10 +23,10 @@
       {
         "ItemId":1,
         "ItemName": "Ornet Note 9",
-        "ItemImage": "",
+        "ItemImage": "assets/images/product/product-17.png",
         "MRP":230.00,
         "Currency": "$",
-        "Rating":5.0,
+        "Rating": 5.0,
         "ItemSellingType": "New",
         "Label": "label new",
         "OldPrice":285
@@ -40,7 +40,7 @@
       {
         "ItemId":2,
         "ItemName": "Xonet Speaker P 9",
-        "ItemImage": "",
+        "ItemImage": "assets/images/product/product-18.png",
         "MRP":185.00,
         "Currency": "$",
         "Rating":5.0,
@@ -57,7 +57,7 @@
       {
         "ItemId":2,
         "ItemName": "Flex P 3310",
-        "ItemImage": "",
+        "ItemImage": "assets/images/product/product-19.png",
         "MRP":180.00,
         "Currency": "$",
         "Rating":5.0,
@@ -74,7 +74,7 @@
       {
         "ItemId":2,
         "ItemName": "Jackson Toaster V 27",
-        "ItemImage": "",
+        "ItemImage": "assets/images/product/product-20.png",
         "MRP":135.00,
         "Currency": "$",
         "Rating":5.0,
@@ -85,7 +85,7 @@
       {
         "ItemId":3,
         "ItemName": "Mega Juice Maker",
-        "ItemImage": "",
+        "ItemImage": "assets/images/product/product-21.png",
         "MRP":125.00,
         "Currency": "$",
         "Rating":5.0,
@@ -96,7 +96,7 @@
       {
         "ItemId":4,
         "ItemName": "Shine Microwave Oven",
-        "ItemImage": "",
+        "ItemImage": "assets/images/product/product-22.png",
         "MRP":245.00,
         "Currency": "$",
         "Rating":5.0,
@@ -107,7 +107,7 @@
       {
         "ItemId":5,
         "ItemName": "Auto Rice Cooker",
-        "ItemImage": "",
+        "ItemImage": "assets/images/product/product-23.png",
         "MRP":130.00,
         "Currency": "$",
         "Rating":5.0,
