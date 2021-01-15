@@ -6,7 +6,7 @@
       {
         "ItemId":1,
         "ItemName": "Nexo Android TV Box",
-        "ItemImage": "assets/images/product/product-16.png",
+        "ItemImage": "",
         "MRP":250.00,
         "Currency": "$",
         "Rating":4.5,
@@ -23,7 +23,7 @@
       {
         "ItemId":1,
         "ItemName": "Ornet Note 9",
-        "ItemImage": "assets/images/product/product-17.png",
+        "ItemImage": "",
         "MRP":230.00,
         "Currency": "$",
         "Rating":5.0,
@@ -40,7 +40,7 @@
       {
         "ItemId":2,
         "ItemName": "Xonet Speaker P 9",
-        "ItemImage": "assets/images/product/product-17.png",
+        "ItemImage": "",
         "MRP":185.00,
         "Currency": "$",
         "Rating":5.0,
@@ -51,6 +51,70 @@
     ]
   },
   {
-   
+   "CategoryID":15,
+    "CategoryName":"Smartphone",
+    "Items":[
+      {
+        "ItemId":2,
+        "ItemName": "Flex P 3310",
+        "ItemImage": "",
+        "MRP":180.00,
+        "Currency": "$",
+        "Rating":5.0,
+        "ItemSellingType": "Sale",
+        "Label": "label sale",
+        "OldPrice":220
+      }
+    ]
+  },
+  {
+    "CategoryID":15,
+    "CategoryName":"Kitchen Appliances",
+    "Items":[
+      {
+        "ItemId":2,
+        "ItemName": "Jackson Toaster V 27",
+        "ItemImage": "",
+        "MRP":135.00,
+        "Currency": "$",
+        "Rating":5.0,
+        "ItemSellingType": "Sale",
+        "Label": "label sale",
+        "OldPrice":185
+      },
+      {
+        "ItemId":3,
+        "ItemName": "Mega Juice Maker",
+        "ItemImage": "",
+        "MRP":125.00,
+        "Currency": "$",
+        "Rating":5.0,
+        "ItemSellingType": "",
+        "Label": "",
+        "OldPrice":165
+      },
+      {
+        "ItemId":4,
+        "ItemName": "Shine Microwave Oven",
+        "ItemImage": "",
+        "MRP":245.00,
+        "Currency": "$",
+        "Rating":5.0,
+        "ItemSellingType": "New",
+        "Label": "label new",
+        "OldPrice":389
+      },
+      {
+        "ItemId":5,
+        "ItemName": "Auto Rice Cooker",
+        "ItemImage": "",
+        "MRP":130.00,
+        "Currency": "$",
+        "Rating":5.0,
+        "ItemSellingType": "",
+        "Label": "",
+        "OldPrice":190
+      }
+    ]
   }
 ]
